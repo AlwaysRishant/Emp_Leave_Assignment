@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emp_Leave_Assignment/static/css/main.76ea04f8.css",
+    "main.js": "/Emp_Leave_Assignment/static/js/main.48243de3.js",
+    "static/media/Login-illustration.jpg": "/Emp_Leave_Assignment/static/media/Login-illustration.8fcc097ba424eee96693.jpg",
+    "static/media/Signup-illustration.jpg": "/Emp_Leave_Assignment/static/media/Signup-illustration.8db4f7d8034b9433430e.jpg",
+    "index.html": "/Emp_Leave_Assignment/index.html",
+    "main.76ea04f8.css.map": "/Emp_Leave_Assignment/static/css/main.76ea04f8.css.map",
+    "main.48243de3.js.map": "/Emp_Leave_Assignment/static/js/main.48243de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ea04f8.css",
+    "static/js/main.48243de3.js"
+  ]
+}
